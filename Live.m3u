@@ -1,0 +1,337 @@
+# T-soAste-o
+Arabic Movies
+#EXTM3U
+#EXTINF:-1,MBC1
+http://81.230.200.187:1967/live/atn/atn/10.ts
+#EXTINF:-1,MBC2
+http://81.230.200.187:1967/live/atn/atn/11.ts
+#EXTINF:-1,MBC3
+http://81.230.200.187:1967/live/atn/atn/12.ts
+#EXTINF:-1,MBC4
+http://81.230.200.187:1967/live/atn/atn/13.ts
+#EXTINF:-1,MBC MAX
+http://81.230.200.187:1967/live/atn/atn/7.ts
+#EXTINF:-1,MBC Masr
+http://81.230.200.187:1967/live/atn/atn/554.ts
+#EXTINF:-1,MBC Masr 2
+http://81.230.200.187:1967/live/atn/atn/9.ts
+#EXTINF:-1,MBC DRAMA
+http://81.230.200.187:1967/live/atn/atn/4.ts
+#EXTINF:-1,MBC DRAMA PLUS
+http://81.230.200.187:1967/live/atn/atn/559.ts
+#EXTINF:-1,MBC Bollywood
+http://81.230.200.187:1967/live/atn/atn/3.ts
+#EXTINF:-1,MBC Action
+http://81.230.200.187:1967/live/atn/atn/2.ts
+#EXTINF:-1,Zee Alwan
+http://81.230.200.187:1967/live/atn/atn/193.ts
+#EXTINF:-1,DUBAI Zaman
+http://81.230.200.187:1967/live/atn/atn/70.ts
+#EXTINF:-1,DUBAI SPORTS
+http://81.230.200.187:1967/live/atn/atn/68.ts
+#EXTINF:-1,DUBAI SPORT2 HD
+http://81.230.200.187:1967/live/atn/atn/142.ts
+#EXTINF:-1,DUBAI Racing
+http://81.230.200.187:1967/live/atn/atn/72.ts
+#EXTINF:-1,DUBAI ONE
+http://81.230.200.187:1967/live/atn/atn/56.ts
+#EXTINF:-1,DUBAI
+http://81.230.200.187:1967/live/atn/atn/67.ts
+#EXTINF:-1,SAMA Dubai
+http://81.230.200.187:1967/live/atn/atn/65.ts
+#EXTINF:-1,Sada El Balad
+http://81.230.200.187:1967/live/atn/atn/365.ts
+#EXTINF:-1,Sada El Balad 2
+http://81.230.200.187:1967/live/atn/atn/366.ts
+#EXTINF:-1,Russia Alyoum EN
+http://81.230.200.187:1967/live/atn/atn/356.ts
+#EXTINF:-1,Russia Alyoum
+http://81.230.200.187:1967/live/atn/atn/82.ts
+#EXTINF:-1,Kaifa
+http://81.230.200.187:1967/live/atn/atn/512.ts
+#EXTINF:-1,Arab Geographic
+http://81.230.200.187:1967/live/atn/atn/556.ts
+#EXTINF:-1,National Geographic Ab
+http://81.230.200.187:1967/live/atn/atn/433.ts
+#EXTINF:-1,Quest Arabyia
+http://81.230.200.187:1967/live/atn/atn/222.ts
+#EXTINF:-1,KNN
+http://81.230.200.187:1967/live/atn/atn/534.ts
+#EXTINF:-1,CNN Turk
+http://81.230.200.187:1967/live/atn/atn/485.ts
+#EXTINF:-1,CNN
+http://81.230.200.187:1967/live/atn/atn/180.ts
+#EXTINF:-1,Fox23
+http://81.230.200.187:1967/live/atn/atn/526.ts
+#EXTINF:-1,Euronews EN
+http://81.230.200.187:1967/live/atn/atn/145.ts
+#EXTINF:-1,Euronews AR
+http://81.230.200.187:1967/live/atn/atn/144.ts
+#EXTINF:-1,El Mehwar
+http://81.230.200.187:1967/live/atn/atn/212.ts
+#EXTINF:-1,El bilad
+http://81.230.200.187:1967/live/atn/atn/522.ts
+#EXTINF:-1,DW arabic
+http://81.230.200.187:1967/live/atn/atn/140.ts
+#EXTINF:-1,BBC Arabic
+http://81.230.200.187:1967/live/atn/atn/75.ts
+#EXTINF:-1,Aljaleya TV Canada
+http://81.230.200.187:1967/live/atn/atn/381.ts
+#EXTINF:-1,Al Kahera Wal Nas 1
+http://81.230.200.187:1967/live/atn/atn/240.ts
+#EXTINF:-1,Al Kahera Wal Nas 2
+http://81.230.200.187:1967/live/atn/atn/239.ts
+#EXTINF:-1,Aljazeera Mubasher
+http://81.230.200.187:1967/live/atn/atn/49.ts
+#EXTINF:-1,Al jazeera Documentary
+http://81.230.200.187:1967/live/atn/atn/46.ts
+#EXTINF:-1,Al jazeera HD
+http://81.230.200.187:1967/live/atn/atn/369.ts
+#EXTINF:-1,AL JAZEERA BALKAN
+http://81.230.200.187:1967/live/atn/atn/335.ts
+#EXTINF:-1,Al Jazeera
+http://81.230.200.187:1967/live/atn/atn/45.ts
+#EXTINF:-1,Alhadath Iraq
+http://81.230.200.187:1967/live/atn/atn/563.ts
+#EXTINF:-1,Al Hadath
+http://81.230.200.187:1967/live/atn/atn/50.ts
+#EXTINF:-1,Al Ekhbarya
+http://81.230.200.187:1967/live/atn/atn/124.ts
+#EXTINF:-1,Al Arabiya HD
+http://81.230.200.187:1967/live/atn/atn/370.ts
+#EXTINF:-1,Al Arabiya
+http://81.230.200.187:1967/live/atn/atn/51.ts
+#EXTINF:-1,Abu Dhabi TV
+http://81.230.200.187:1967/live/atn/atn/77.ts
+#EXTINF:-1,Abu Dhabi Drama
+http://81.230.200.187:1967/live/atn/atn/432.ts
+#EXTINF:-1,On Sport
+http://81.230.200.187:1967/live/atn/atn/363.ts
+#EXTINF:-1,On Live
+http://81.230.200.187:1967/live/atn/atn/364.ts
+#EXTINF:-1,ON E
+http://81.230.200.187:1967/live/atn/atn/362.ts
+#EXTINF:-1,El Balad Drama
+http://81.230.200.187:1967/live/atn/atn/367.ts
+#EXTINF:-1,Al nahar
+http://81.230.200.187:1967/live/atn/atn/89.ts
+#EXTINF:-1,Al nahar Drama
+http://81.230.200.187:1967/live/atn/atn/92.ts
+#EXTINF:-1,Rotana Masriya
+http://81.230.200.187:1967/live/atn/atn/182.ts
+#EXTINF:-1,Rotana Classic
+http://81.230.200.187:1967/live/atn/atn/183.ts
+#EXTINF:-1,Rotana Khalijiah
+http://81.230.200.187:1967/live/atn/atn/184.ts
+#EXTINF:-1,Rotana Mosica
+http://81.230.200.187:1967/live/atn/atn/186.ts
+#EXTINF:-1,Nile Family
+http://81.230.200.187:1967/live/atn/atn/149.ts
+#EXTINF:-1,Nile Cinema
+http://81.230.200.187:1967/live/atn/atn/155.ts
+#EXTINF:-1,Nile Comedy
+http://81.230.200.187:1967/live/atn/atn/153.ts
+#EXTINF:-1,Nile Drama
+http://81.230.200.187:1967/live/atn/atn/151.ts
+#EXTINF:-1,FOOD
+http://81.230.200.187:1967/live/atn/atn/64.ts
+#EXTINF:-1,CBC Sofra
+http://81.230.200.187:1967/live/atn/atn/457.ts
+#EXTINF:-1,CBC Extra News
+http://81.230.200.187:1967/live/atn/atn/453.ts
+#EXTINF:-1,CBC Drama
+http://81.230.200.187:1967/live/atn/atn/455.ts
+#EXTINF:-1,CBC
+http://81.230.200.187:1967/live/atn/atn/458.ts
+#EXTINF:-1,Orbit Musalsalat
+http://81.230.200.187:1967/live/atn/atn/553.ts
+#EXTINF:-1,Orbit Cinema 1
+http://81.230.200.187:1967/live/atn/atn/468.ts
+#EXTINF:-1,Alhayah 2
+http://81.230.200.187:1967/live/atn/atn/466.ts
+#EXTINF:-1,Alhayah 1
+http://81.230.200.187:1967/live/atn/atn/465.ts
+#EXTINF:-1,Al afase
+http://81.230.200.187:1967/live/atn/atn/409.ts
+#EXTINF:-1,Quran
+http://81.230.200.187:1967/live/atn/atn/406.ts
+#EXTINF:-1,Quran Time
+http://81.230.200.187:1967/live/atn/atn/407.ts
+#EXTINF:-1,Alnas TV
+http://81.230.200.187:1967/live/atn/atn/404.ts
+#EXTINF:-1,Quran TV
+http://81.230.200.187:1967/live/atn/atn/122.ts
+#EXTINF:-1,Wesal
+http://81.230.200.187:1967/live/atn/atn/445.ts
+#EXTINF:-1,Al Resalah
+http://81.230.200.187:1967/live/atn/atn/224.ts
+#EXTINF:-1,Al Rahma
+http://81.230.200.187:1967/live/atn/atn/403.ts
+#EXTINF:-1,Al majd quran
+http://81.230.200.187:1967/live/atn/atn/405.ts
+#EXTINF:-1,AL MAJD
+http://81.230.200.187:1967/live/atn/atn/48.ts
+#EXTINF:-1,Toyor Aljanah
+http://81.230.200.187:1967/live/atn/atn/373.ts
+#EXTINF:-1,Ajyal PAL
+http://81.230.200.187:1967/live/atn/atn/87.ts
+#EXTINF:-1,Ajyal
+http://81.230.200.187:1967/live/atn/atn/126.ts
+#EXTINF:-1,Jeem
+http://81.230.200.187:1967/live/atn/atn/537.ts
+#EXTINF:-1,NOON
+http://81.230.200.187:1967/live/atn/atn/242.ts
+#EXTINF:-1,Rwwad
+http://81.230.200.187:1967/live/atn/atn/558.ts
+#EXTINF:-1,Karameesh
+http://81.230.200.187:1967/live/atn/atn/460.ts
+#EXTINF:-1,Majid
+http://81.230.200.187:1967/live/atn/atn/402.ts
+#EXTINF:-1,SpaceToon
+http://81.230.200.187:1967/live/atn/atn/555.ts
+#EXTINF:-1,Cartoon Network AR
+http://81.230.200.187:1967/live/atn/atn/243.ts
+#EXTINF:-1,TOM kids
+http://81.230.200.187:1967/live/atn/atn/564.ts
+#EXTINF:-1,KurdMax
+http://81.230.200.187:1967/live/atn/atn/231.ts
+#EXTINF:-1,Kurdistan
+http://81.230.200.187:1967/live/atn/atn/217.ts
+#EXTINF:-1,NRT arabic
+http://81.230.200.187:1967/live/atn/atn/148.ts
+#EXTINF:-1,NRT 2   HD
+http://81.230.200.187:1967/live/atn/atn/95.ts
+#EXTINF:-1,NRT 1   HD
+http://81.230.200.187:1967/live/atn/atn/94.ts
+#EXTINF:-1,Al Dafrah
+http://81.230.200.187:1967/live/atn/atn/141.ts
+#EXTINF:-1,Al Rashid
+http://81.230.200.187:1967/live/atn/atn/80.ts
+#EXTINF:-1,Al Sharqiya NEWS
+http://81.230.200.187:1967/live/atn/atn/79.ts
+#EXTINF:-1,Al Sharqiya  HD
+http://81.230.200.187:1967/live/atn/atn/78.ts
+#EXTINF:-1,Alrasheed
+http://81.230.200.187:1967/live/atn/atn/418.ts
+#EXTINF:-1,Algadeer
+http://81.230.200.187:1967/live/atn/atn/503.ts
+#EXTINF:-1,Dijlah
+http://81.230.200.187:1967/live/atn/atn/504.ts
+#EXTINF:-1,Alkout
+http://81.230.200.187:1967/live/atn/atn/101.ts
+#EXTINF:-1,Al Hurra Iraq
+http://81.230.200.187:1967/live/atn/atn/384.ts
+#EXTINF:-1,Al Hurra
+http://81.230.200.187:1967/live/atn/atn/383.ts
+#EXTINF:-1,Al Forat
+http://81.230.200.187:1967/live/atn/atn/227.ts
+#EXTINF:-1,Aghanina
+http://81.230.200.187:1967/live/atn/atn/497.ts
+#EXTINF:-1,Alfajer TV
+http://81.230.200.187:1967/live/atn/atn/114.ts
+#EXTINF:-1,PNN
+http://81.230.200.187:1967/live/atn/atn/540.ts
+#EXTINF:-1,Musawa
+http://81.230.200.187:1967/live/atn/atn/86.ts
+#EXTINF:-1,Alfalstiniah
+http://81.230.200.187:1967/live/atn/atn/216.ts
+#EXTINF:-1,Palestine TV
+http://81.230.200.187:1967/live/atn/atn/85.ts
+#EXTINF:-1,Palestine Mubasher
+http://81.230.200.187:1967/live/atn/atn/84.ts
+#EXTINF:-1,Palestine Al yawm
+http://81.230.200.187:1967/live/atn/atn/214.ts
+#EXTINF:-1,Falasteni
+http://81.230.200.187:1967/live/atn/atn/521.ts
+#EXTINF:-1,Asia Sat
+http://81.230.200.187:1967/live/atn/atn/502.ts
+#EXTINF:-1,Alquds
+http://81.230.200.187:1967/live/atn/atn/215.ts
+#EXTINF:-1,Al Aqsa
+http://81.230.200.187:1967/live/atn/atn/83.ts
+#EXTINF:-1,ANN
+http://81.230.200.187:1967/live/atn/atn/206.ts
+#EXTINF:-1,Orient SY
+http://81.230.200.187:1967/live/atn/atn/202.ts
+#EXTINF:-1,SAMA SYRIA
+http://81.230.200.187:1967/live/atn/atn/66.ts
+#EXTINF:-1,Syria UGARIT
+http://81.230.200.187:1967/live/atn/atn/41.ts
+#EXTINF:-1,Syria Sat
+http://81.230.200.187:1967/live/atn/atn/36.ts
+#EXTINF:-1,Syria NOUR
+http://81.230.200.187:1967/live/atn/atn/40.ts
+#EXTINF:-1,Syria NEWS
+http://81.230.200.187:1967/live/atn/atn/38.ts
+#EXTINF:-1,Syria EDU
+http://81.230.200.187:1967/live/atn/atn/42.ts
+#EXTINF:-1,Syria DRAMA
+http://81.230.200.187:1967/live/atn/atn/37.ts
+#EXTINF:-1,Alalam
+http://81.230.200.187:1967/live/atn/atn/73.ts
+#EXTINF:-1,AlAAN TV
+http://81.230.200.187:1967/live/atn/atn/194.ts
+#EXTINF:-1,MTV Lebanon
+http://81.230.200.187:1967/live/atn/atn/109.ts
+#EXTINF:-1,Future
+http://81.230.200.187:1967/live/atn/atn/69.ts
+#EXTINF:-1,LDC
+http://81.230.200.187:1967/live/atn/atn/552.ts
+#EXTINF:-1,LBC europ
+http://81.230.200.187:1967/live/atn/atn/108.ts
+#EXTINF:-1,Aljadeed
+http://81.230.200.187:1967/live/atn/atn/57.ts
+#EXTINF:-1,Al Manar
+http://81.230.200.187:1967/live/atn/atn/43.ts
+#EXTINF:-1,Al Mayadeen
+http://81.230.200.187:1967/live/atn/atn/241.ts
+#EXTINF:-1,Ifilm En
+http://81.230.200.187:1967/live/atn/atn/234.ts
+#EXTINF:-1,Ifilm
+http://81.230.200.187:1967/live/atn/atn/233.ts
+#EXTINF:-1,Algeria 5
+http://81.230.200.187:1967/live/atn/atn/400.ts
+#EXTINF:-1,Algeria 4
+http://81.230.200.187:1967/live/atn/atn/399.ts
+#EXTINF:-1,Algeria 3
+http://81.230.200.187:1967/live/atn/atn/397.ts
+#EXTINF:-1,El Djazairia
+http://81.230.200.187:1967/live/atn/atn/557.ts
+#EXTINF:-1,Al kass 1
+http://81.230.200.187:1967/live/atn/atn/188.ts
+#EXTINF:-1,Al kass 2
+http://81.230.200.187:1967/live/atn/atn/190.ts
+#EXTINF:-1,Al kass 3
+http://81.230.200.187:1967/live/atn/atn/189.ts
+#EXTINF:-1,Al kass 4
+http://81.230.200.187:1967/live/atn/atn/306.ts
+#EXTINF:-1,Al kass 5
+http://81.230.200.187:1967/live/atn/atn/307.ts
+#EXTINF:-1,Abu Dabi Sport 1
+http://81.230.200.187:1967/live/atn/atn/422.ts
+#EXTINF:-1,Abu Dabi Sport 2
+http://81.230.200.187:1967/live/atn/atn/423.ts
+#EXTINF:-1,Abu Dabi Sport 3
+http://81.230.200.187:1967/live/atn/atn/424.ts
+#EXTINF:-1,Abu Dabi Sport 4
+http://81.230.200.187:1967/live/atn/atn/425.ts
+#EXTINF:-1,Abu Dabi Sport 5
+http://81.230.200.187:1967/live/atn/atn/426.ts
+#EXTINF:-1,Abu Dabi Sport 1 HD
+http://81.230.200.187:1967/live/atn/atn/427.ts
+#EXTINF:-1,Abu Dabi Sport 2 HD
+http://81.230.200.187:1967/live/atn/atn/428.ts
+#EXTINF:-1,Abu Dabi Sport 3 HD
+http://81.230.200.187:1967/live/atn/atn/429.ts
+#EXTINF:-1,Abu Dabi Sport 4 HD
+http://81.230.200.187:1967/live/atn/atn/430.ts
+#EXTINF:-1,Abu Dabi Sport 5 HD
+http://81.230.200.187:1967/live/atn/atn/431.ts
+#EXTINF:-1,AR:BEIN_SPORTS_1_SD
+http://81.230.200.187:1967/live/atn/atn/541.ts
+#EXTINF:-1,AR:BEIN_SPORTS_2_SD
+http://81.230.200.187:1967/live/atn/atn/542.ts
+#EXTINF:-1,AR:beIN_Sports_1_HD
+http://81.230.200.187:1967/live/atn/atn/270.ts
+#EXTINF:-1,AR:beIN_Sports_2_HD
+http://81.230.200.187:1967/live/atn/atn/262.ts
